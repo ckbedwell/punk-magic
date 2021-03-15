@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Greater than ABV",
+    "param": "abv_gt",
+    "type": "number"
+  },
+  {
+    "name": "Hops",
+    "param": "hops",
+    "type": "radio",
+    "options": [
+      {
+        "name": "Fuggles",
+        "value": "fuggles"
+      },
+      {
+        "name": "First Gold",
+        "value": "first_gold"
+      },
+      {
+        "name": "Columbus",
+        "value": "columbus"
+      },
+      {
+        "name": "Hersbrucker",
+        "value": "hersbrucker"
+      }
+    ]
+  },
+  {
+    "name": "Good with",
+    "param": "food",
+    "type": "radio",
+    "options": [
+      {
+        "name": "Chicken",
+        "value": "chicken"
+      },
+      {
+        "name": "Cake",
+        "value": "cake"
+      },
+      {
+        "name": "Kedgeree",
+        "value": "kedgeree"
+      },
+      {
+        "name": "Beef chilli made with cocoa powder",
+        "value": "beef_chilli_made_with_cocoa_powder"
+      }
+    ]
+  }
+]

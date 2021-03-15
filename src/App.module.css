@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial;
+}
+
+.header {
+  border-bottom: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.header nav a {
+  margin-left: 10px;
+}
+
+.container {
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+}

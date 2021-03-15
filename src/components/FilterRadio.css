@@ -1,0 +1,13 @@
+.filter-radio,
+.filter-number {
+  margin-bottom: 10px;
+}
+
+.filter-heading {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.filter-radio input {
+  margin-right: 5px;
+}
